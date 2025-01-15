@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10871799&assignment_repo_type=AssignmentRepo)
 
-# Chess
+# Chess Public Portfolio
  Authors: 
  * [Rodrigo Maroto Caño](https://github.com/RodrigoMaroto)
  * [Corey Broussard](https://github.com/cbrou002)
@@ -124,3 +124,5 @@ These methods include:
 
 Additionally, as it is normal when developing projects that depend highly on the user experience like games, we have carried out exhaustive play testing.  
 Finally, we have also run the executable using Valgrind to identify memory leaks and fix them. 
+
+The source files for the code are not included, as this is just to give an idea of the project we implemented. I have included the header files for the work we did.
