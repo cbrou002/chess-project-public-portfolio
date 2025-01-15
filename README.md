@@ -125,4 +125,4 @@ These methods include:
 Additionally, as it is normal when developing projects that depend highly on the user experience like games, we have carried out exhaustive play testing.  
 Finally, we have also run the executable using Valgrind to identify memory leaks and fix them. 
 
-The source files for the code are not included, as this is just to give an idea of the project we implemented. I have included the header files for the work we did.
+NOTE: The source files we implemented have not been included in this portfolio, but I have included the header files for the work we did.
