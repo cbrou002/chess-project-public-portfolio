@@ -21,7 +21,7 @@ Some features that should be implemented in the project are:
 * Ability to promote a pawn when the conditions match
 * Checks to see if the chess piece is in the boundaries of the board.
 
-NOTE: The source files we implemented have not been included in this portfolio, but I have included the header files for the work we did.  
+NOTE: The source files we implemented have not been included in this portfolio, but I have included the header and test files for the work we did.  
 
 ## User Interface Specification
  
