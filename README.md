@@ -21,6 +21,7 @@ Some features that should be implemented in the project are:
 * Ability to promote a pawn when the conditions match
 * Checks to see if the chess piece is in the boundaries of the board.
 
+NOTE: The source files we implemented have not been included in this portfolio, but I have included the header files for the work we did.  
 
 ## User Interface Specification
  
@@ -125,4 +126,3 @@ These methods include:
 Additionally, as it is normal when developing projects that depend highly on the user experience like games, we have carried out exhaustive play testing.  
 Finally, we have also run the executable using Valgrind to identify memory leaks and fix them. 
 
-NOTE: The source files we implemented have not been included in this portfolio, but I have included the header files for the work we did.
